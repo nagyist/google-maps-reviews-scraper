@@ -34,7 +34,7 @@
 
 ## Disclaimer for Google Maps Scraper Project
 
-> This Google Maps Scraper is provided for educational and research purposes only. By using this Google Maps Scraper, you agree to comply with local and international laws regarding data scraping and privacy. The authors and contributors are not responsible for any misuse of this software. This tool should not be used to violate the rights of others, for unethical purposes, or to use data in an unauthorized or illegal manner.
+> This Google Maps Scraper is provided for educational and research purposes only. By using this Google Maps Scraper, you agree to comply with local and international laws regarding data scraping and privacy. The authors and contributors are not responsible for any misuse of this software. This tool should not be used to violate the rights of others, or for unethical purposes.
 
 We take the concerns of the Google Maps Scraper Project very seriously. For any concerns, please contact Chetan Jain at [chetan@omkar.cloud](mailto:chetan@omkar.cloud). We will promptly reply to your emails.
 
@@ -50,7 +50,7 @@ We take the concerns of the Google Maps Scraper Project very seriously. For any 
 
 ---
 
-Google Maps Scraper helps you find Business Profiles from Google Maps.
+Google Maps Scraper helps you find Reviews from Google Maps.
 
 ## ⚡ Benefits
 
@@ -149,8 +149,6 @@ You can input your queries here and search by:
 
 - Scrape Reviews 
 ![reviews-section](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/reviews-section.png)
-
-Please note that you can get a maximum of **200 to 360 reviews** per place
 
 #### Output Page ('/output')
 ![output-page.png](https://raw.githubusercontent.com/omkarcloud/google-maps-scraper/master/screenshots/output-page.png)
