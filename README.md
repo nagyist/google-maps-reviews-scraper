@@ -425,28 +425,26 @@ Once your product is perfected, and is creating good value for your customers, y
 
 ### ❓ What is the Enrichment Section in App?
 
-The Enrichment API turns Google Maps business data into sales-ready contacts.
+The Enrichment API turns Google Maps business data into sales-ready contacts. **1 credit = 1 cent.**
 
 You've got businesses from Google Maps. Now you need to actually reach them. That's where enrichment comes in:
 
-- **Email Verification & Social Links**
-  - Get emails and social profiles from websites. 
-  - AI ranks emails for sales outreach (prioritizing emails with higher chance of converting)
-  - Verify deliverability before you send.
+- **Website Contacts Enrichment**
+  - Get emails and social profiles from websites (0.2 credits)
+  - AI ranks the best email for sales outreach—free
+  - Verify deliverability with MillionVerifier (0.2 credits/email) or ZeroBounce (1 credit/email)
+  - Place Sales Summary—AI-generated business context tailored to YOUR product (0.2 credits)
+  - Phone Carrier Info—know if it's landline or mobile (1 credit)
 
-- **Phone Carrier Info**
-  - Know if it's a landline or mobile
-  - Get carrier name (Verizon, AT&T, etc.)
-  - Essential for calling—don't waste time on landlines
+- **Apollo Leads Enrichment**
+  - Find decision-makers (CEO, VP Sales, etc.) at any business via [Apollo](https://www.g2.com/categories/lead-capture)—the #1 rated lead generation tool on G2 with 8,500+ reviews
+  - Get their name, title, verified work email, LinkedIn, phone number, and company data (2 credits/lead)
 
-- **Place Sales Summary**
-  - AI-generated business context from their Google Maps listing
-  - Tailored to YOUR product—tell us what you sell, we tell you how to pitch them
-  - Walk into calls knowing exactly what problems you can solve for them
+For third-party services like MillionVerifier, ZeroBounce, and Apollo—the cost through us is lower than buying directly. We purchase in bulk and pass the discount to you.
 
 **Bottom line:** Same leads, same sales—but with enrichment, your conversion rate multiplies. That's more customers from the same effort.
 
-[Start enriching for free](https://www.omkar.cloud/tools/business-enrichment)—600 credits/month included.
+[Start enriching for free](https://www.omkar.cloud/tools/business-enrichment)—100 credits/month included.
 
 ### ❓ Enough theory. Give me real-world examples of how I can use this tool to find customers.
 
